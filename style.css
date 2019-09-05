@@ -1,0 +1,37 @@
+.monster-card {
+    max-width: 800px;
+    padding: 30px;
+    margin: auto auto;
+    margin-bottom: 30px;
+    text-align: center center;
+    border-right: solid;
+    border-bottom: solid;
+    border-radius: 25px;
+    border-color: black;
+}
+
+#title {
+    margin-left: 312px;
+    margin-right: 400px;
+}
+
+#create-monster {
+    padding: 20px;
+    margin-left: 312px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    text-align: center center;
+    border-right: solid;
+    border-bottom: solid;
+    border-radius: 25px;
+    border-color: black;
+}
+
+.pageButtons {
+    padding: 20px;
+    border-radius: 25px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
